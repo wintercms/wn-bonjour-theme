@@ -9,7 +9,7 @@ require:
 
 translate:
     en:
-        site.name: 'Bonjour'
+        site.name: 'Hello'
         nav.home: 'Home'
         nav.languages: 'Languages'
         nav.messages: 'Messages'
@@ -18,6 +18,16 @@ translate:
         title.languages: 'Available Languages'
         title.messages: 'Translated Messages'
         title.video: 'Screencast Video'
+    fr:
+        site.name: 'Bonjour'
+        nav.home: 'Accueil'
+        nav.languages: 'Langues'
+        nav.messages: 'Messages'
+        nav.content: 'Contenu'
+        nav.video: 'Vidéo'
+        title.languages: 'Langues disponibles'
+        title.messages: 'Messages traduits'
+        title.video: 'Vidéo de écran'
     de:
         site.name: 'Guten Tag'
         nav.home: 'Startseite'
@@ -28,4 +38,3 @@ translate:
         title.languages: 'Verfügbare Sprachen'
         title.messages: 'Übersetze Nachrichten'
         title.video: 'Screencast Video'
-        
